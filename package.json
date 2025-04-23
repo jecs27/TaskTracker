@@ -1,0 +1,30 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "track your tasks and manage your to-do list",
+  "homepage": "https://github.com/jecs27/TaskTracker#readme",
+  "bugs": {
+    "url": "https://github.com/jecs27/TaskTracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jecs27/TaskTracker.git"
+  },
+  "license": "MIT",
+  "author": "jecs27",
+  "type": "commonjs",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "task-cli": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^13.1.0",
+    "dayjs": "^1.11.13"
+  }
+}
