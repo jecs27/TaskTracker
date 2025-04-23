@@ -2,6 +2,10 @@
 
 **TaskTracker** is a simple and fast command-line tool to manage your personal tasks directly from your terminal. Perfect for developers or CLI lovers who want to stay organized without switching to web or mobile apps.
 
+### 🚧 Idea Inspired by Roadmap.sh
+
+The concept for **TaskTracker** comes from [TaskTracker on Roadmap.sh](https://roadmap.sh/projects/task-tracker), where the idea of building a task tracking system was envisioned.
+
 ---
 
 ## Installation
@@ -77,3 +81,4 @@ MIT License
 
 ## Contributing
 Pull requests, suggestions, and improvements are welcome!
+
